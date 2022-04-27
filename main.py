@@ -6,7 +6,7 @@ from libs.screens.home_page import HomePage
 
 class InstagramApp(MDApp):
     def build(self):
-        Window.size= [360, 600]
+        Window.size= [290, 600]
 
         self.load_all_kv_files()
         return HomePage()

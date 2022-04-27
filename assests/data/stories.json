@@ -1,0 +1,49 @@
+{
+    "jyundess":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "abhishek":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "virat":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "kumar":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "watsonsen":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "richard.bell":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "sachin":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "sundar_gg":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "why_so_serious":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "able":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "howard":{
+        "avatar": "libs/screens/image.jpg"
+    },
+
+    "sheldon":{
+        "avatar": "libs/screens/image.jpg"
+    }
+}
